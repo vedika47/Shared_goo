@@ -16,31 +16,54 @@ SharedGo is a decentralized ride-sharing Flutter application that leverages bloc
 
 ## ✨ Features
 
-- 🔒 Blockchain-based trip verification
-- 👤 Rider & Driver login with role-based flow
-- 🧾 Transparent trip history
-- 📍 Ride creation & booking
-- 📦 Firebase for authentication and storage
-- 🌐 Clean UI with Flutter
+- 🔒 Blockchain-based trip verification  
+- 👤 Rider & Driver login with role-based flow  
+- 🧾 Transparent trip history  
+- 📍 Ride creation & booking  
+- 📦 Firebase for authentication and storage  
+- 🌐 Clean UI with Flutter  
 
 ---
 
 ## 🛠 Tech Stack
 
-| Tech | Usage |
-|------|-------|
-| 🧱 Flutter | Cross-platform app UI |
-| 🧠 Dart | Core application logic |
+| Tech                  | Usage                              |
+|-----------------------|-------------------------------------|
+| 🧱 Flutter            | Cross-platform app UI              |
+| 🧠 Dart               | Core application logic             |
 | 🔗 Blockchain (Planned) | Trip recording with smart contracts |
-| 🔥 Firebase | Authentication & Firestore |
-| 📍 Google Maps API | Route tracking (upcoming) |
+| 🔥 Firebase           | Authentication & Firestore        |
+| 📍 Google Maps API    | Route tracking (upcoming)          |
 
 ---
 
 ## 📸 Screenshots
 
-
-
 | Home Screen | Booking Page |
 |-------------|--------------|
-| ![Home](screenshots/home.png) | ![Driver_Login](screenshots/Driver_Login.png)
+| ![Home](screenshots/Home.png) | ![Taxi Booking](screenshots/Taxi_Booking_page.png) |
+
+| Driver Login | User Login | Sign Up |
+|--------------|------------|---------|
+| ![Driver Login](screenshots/Driver_Login.png) | ![User Login](screenshots/user_Login.png) | ![Sign Up](screenshots/Sign_Up.png) |
+
+| User Dashboard | Driver Dashboard | Ride Page |
+|----------------|------------------|-----------|
+| ![User Home Page](screenshots/User_Home_Page.png) | ![Driver Dashboard](screenshots/Driver_Dashboard.png) | ![Ride Page](screenshots/Ride_page.png) |
+
+| Distance & Fare | Request Ride | User Requests |
+|------------------|---------------|----------------|
+| ![Distance and Fare](screenshots/Distance_and_Fare.png) | ![Request Ride](screenshots/Request_Ride.png) | ![User Requests](screenshots/User_Requests.png) |
+
+| Launcher Icon |
+|----------------|
+| ![Launcher Icon](screenshots/Launcher_icon.png) |
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+Let me know if you want to contribute or need help setting up!
